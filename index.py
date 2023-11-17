@@ -1,3 +1,9 @@
+"""
+Alunos: 
+Geane De Almeida Nunes Ferreira
+Arnaldo Ribeiro Barros Lima
+"""
+
 def busca_sequencial(lista, alvo):
     """
     Realiza uma busca sequencial na lista e retorna a posição do alvo ou -1 se não estiver presente.
